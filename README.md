@@ -69,7 +69,7 @@ These visualizations help in understanding trends and patterns in academic data.
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/prajwal537892/project-name.git
 
 2. Install required libraries
 
