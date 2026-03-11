@@ -67,19 +67,11 @@ These visualizations help in understanding trends and patterns in academic data.
 
 ## How to Run the Project
 
-1. Clone the repository
-
-git clone https://github.com/prajwal537892/project-name.git
-
-2. Install required libraries
-
-pip install pandas numpy matplotlib seaborn
-
-3. Open the Jupyter Notebook
+1. Open the Jupyter Notebook
 
 jupyter notebook
 
-4. Run the notebook cells step by step.
+2. Run the notebook cells step by step.
 
 ## Project Structure
 
